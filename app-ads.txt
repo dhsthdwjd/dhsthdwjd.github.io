@@ -1666,3 +1666,4 @@ xandr.com, 17779, RESELLER
 xandr.com, 7353, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
+rubiconproject.com, 25060, RESELLER, 0bfd66d529a55807
