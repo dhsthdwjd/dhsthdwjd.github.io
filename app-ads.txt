@@ -1696,3 +1696,34 @@ freewheel.tv, 535664-r-523319, RESELLER
 triplelift.com, 11883, RESELLER, 6c33edb13117fd86
 nativo.com, 2462, RESELLER, 59521ca7cc5e9fee
 risecodes.com,66fab6981efdb80001a3dadc,RESELLER,79929e88b2ba73bc
+
+# BidMachine (seller 2031) - 2026-11-24
+bidmachine.io, 2031, DIRECT
+admanmedia.com, 613, RESELLER
+video.unrulymedia.com, 3948367200, RESELLER, 98c21ef9a666c68b
+triplelift.com, 12456, RESELLER, 6c33edb13117fd86
+theagenticx.ai, 687741, RESELLER
+adwmg.com, 101215, RESELLER, c9688a22012618e7
+themediagrid.com, RIX2M5, RESELLER, 9fac4a4a87c2a44f
+freewheel.tv, 1604590, RESELLER, 74e8e47458f74754
+freewheel.tv, 1604595, RESELLER, 74e8e47458f74754
+pubmatic.com, 156559, RESELLER, 5d62403b186f2ace
+freewheel.tv, 535659, RESELLER, 74e8e47458f74754
+adform.com, 2831, RESELLER, 9f5210a2f0999e32
+lijit.com, 383910, RESELLER, fafdf38b16bf6b2b
+apester.com, 1105, RESELLER
+video.unrulymedia.com, 579227028, RESELLER, 98c21ef9a666c68b
+adyoulike.com, 4d5014f8da11fc0a70ebbda5d4537935, RESELLER
+bidease.com, bidease_seller_36, RESELLER
+blasto.ai, 354, RESELLER
+appnexus.com, 16641, RESELLER, f5ab79cb980f11d1
+carbonatix.com, 176915265, RESELLER
+voisetech.com, 1216, RESELLER, 9009ef0379162448
+video.unrulymedia.com, 436431924, RESELLER, 98c21ef9a666c68b
+improvedigital.com, 2423, RESELLER
+snack-media.com, SNM_4159, RESELLER
+smoot.ai, 100047, RESELLER
+appads.in, 108503, RESELLER
+blueseasx.com, 204037, RESELLER, 7998eac5087f6110
+playdigo.com, 2041, RESELLER
+sharethrough.com, RHQvkGur, RESELLER, d53b998a7bd4ecd2
