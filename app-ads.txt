@@ -1969,3 +1969,5 @@ vdo.ai, 20154, RESELLER
 turms.com, PUB1604229842, RESELLER
 audiomob.com, 2a68fdfc-0f63-4687-86dc-ffdb6379e7a4, RESELLER, 4b0cec5c9072d7d7
 omniaconnect.ai, 14558, RESELLER
+pubnative.net, 1018439, RESELLER, d641df8625486a7b
+smaato.com, 1100060686, RESELLER, 07bcf65f187117b4
