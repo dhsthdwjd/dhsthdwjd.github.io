@@ -1972,3 +1972,36 @@ omniaconnect.ai, 14558, RESELLER
 pubnative.net, 1018439, RESELLER, d641df8625486a7b
 smaato.com, 1100060686, RESELLER, 07bcf65f187117b4
 fivecdm.com,4549554,DIRECT
+
+# BidMachine (2026-11-27 missing lines)
+start.io,197403684,RESELLER
+triplelift.com,14714,RESELLER,6c33edb13117fd86
+pinklion.io,190976961,RESELLER
+pubmatic.com,161325,RESELLER,5d62403b186f2ace
+magicbid.ai,12072993,RESELLER
+sharethrough.com,5495,RESELLER,d53b998a7bd4ecd2
+smartyads.com,355,RESELLER
+balance-x.com,143,RESELLER
+opera.com,pub13152998147264,RESELLER,55a0c5fd61378de3
+bidstrade.io,100215,RESELLER
+playdigo.com,1982,RESELLER
+pubmatic.com,166234,RESELLER,5d62403b186f2ace
+media.net,8CUMC5R7D,RESELLER,818f58666cabc936
+adagio.io,1224,RESELLER
+bold-win.com,1125,RESELLER,71746737d0bab951
+appnexus.com,17399,RESELLER,f5ab79cb980f11d1
+rubiconproject.com,25692,RESELLER,0bfd66d529a55807
+appnexus.com,3703,RESELLER,f5ab79cb980f11d1
+krushmedia.com,AJxF6R439a9M6CaTvK,RESELLER
+smartadserver.com,5302,RESELLER
+google.com,pub-9966039342650298,RESELLER
+flat-ads.com,267,RESELLER
+verticalscope.com,44442164411,RESELLER
+medialabtech.ai,35821542522,RESELLER
+escalax.io,205,RESELLER
+nitrouppi.com,460374,RESELLER
+rubiconproject.com,26476,RESELLER,0bfd66d529a55807
+thebrave.io,1234831,RESELLER,c25b2154543746ac
+triplelift.com,14845,RESELLER,6c33edb13117fd86
+dxkulture.com,95860,RESELLER
+google.com,pub-1813155428437068,RESELLER
