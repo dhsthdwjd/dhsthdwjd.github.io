@@ -4479,3 +4479,5 @@ nativo.com, 6114, reseller, 59521ca7cc5e9fee
 bold-win.com, 1142, reseller, 71746737d0bab951
 video.unrulymedia.com, 158727213, reseller
 pubmatic.com, 168362, reseller, 5d62403b186f2ace
+sharethrough.com,5407,RESELLER,d53b998a7bd4ecd2
+ompventures.com,40364,RESELLER
